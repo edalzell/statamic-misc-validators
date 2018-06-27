@@ -1,0 +1,6 @@
+{
+    "name": "erin-dalzell/misc-validators",
+    "require": {
+        "giggsey/libphonenumber-for-php": "*"
+    }
+}
